@@ -10,7 +10,9 @@ Backend Developer with 5 years of experience in both front-end and back-end tech
 *   ✉️  You can contact me at [nileshtiwari1391@gmail.com](mailto:nileshtiwari1391@gmail.com)
 *   🧠  I'm learning Data Structures & Algorithms
 *   🤝  I'm open to collaborating on interesting & open source projects
-*   ⚡  I love teaching.<a href="https://www.github.com/nilesh1391" target="_blank" rel="noreferrer"><img
+*   ⚡  I love teaching.
+*
+*   <a href="https://www.github.com/nilesh1391" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/nilesh1391?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/nilesh139" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/nilesh139?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills 
